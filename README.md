@@ -7,7 +7,6 @@
 - 🌱 Aprendiendo y mejorando cada día en **desarrollo web**.
 - 🎨 Me encanta crear **interfaces bonitas, accesibles y funcionales**.
 - 🐱 Fan de los detalles lindos y del código limpio.
-- ☕ Sobrevivo con café y buena música mientras programo.
 - 💖 Mi meta: *hacer que la tecnología también se sienta cálida y humana*.
 
 ---
