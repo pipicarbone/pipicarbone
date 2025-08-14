@@ -25,8 +25,8 @@
 ---
 
 ## 📫 Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bae1ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Email](https://img.shields.io/badge/Email-ffd6e0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bae1ff?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![Email](https://img.shields.io/badge/Email-ffd6e0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anapaulacar05@gmail.com)
 
 ---
 
